@@ -1,0 +1,8 @@
+@import url("style.css");
+@media print {
+    header,
+    footer,
+    nav {
+        display: none;
+    }
+}
